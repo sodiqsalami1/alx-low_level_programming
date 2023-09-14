@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print_most_numbers - function that print all numbers from
+ * print_most_numbers - function that print all the  numbers from
  * 0 to 9
  *
  * Return: return nothing
