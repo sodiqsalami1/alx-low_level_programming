@@ -4,7 +4,7 @@
 /**
  * print_triangle - prints a triangles
  * @size:size parameter of triangle
- * Return: returnnothing
+ * Return: return nothing
  */
 
 void print_triangle(int size)
@@ -19,6 +19,7 @@ void print_triangle(int size)
 			{
 				putchar (' ');
 			}
+			
 			for (inc2 = 0; inc2 < inc1; inc2++)
 			{
 				putchar ('#');
@@ -32,4 +33,5 @@ void print_triangle(int size)
 			putchar ('\n');
 		}
 	}
+	putchar ('\n');
 }
