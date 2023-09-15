@@ -2,11 +2,10 @@
 #include <stdio.h>
 
 /**
- * main - prints the all  numbers from 1 to 100, followed by a new line
+ * main - prints the numbers from 1 to 100, followed by a new line
  *
- * Return: Always 0 (success)
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	int i;
