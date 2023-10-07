@@ -10,6 +10,5 @@ int _putchar(char c);
 int is_digit(char *s);
 void error();
 int _strlen(char *s);
-int main(int argc, char *argv[]);
 
 #endif
