@@ -1,6 +1,6 @@
 #include "variadic_functions.h"
 /**
- * print_strings - print strins passed to funtion
+ * print_strings - print strings passed to funtion
  * as parameter
  * @separator: seperate btw two strings
  * @n: number of strings to print
@@ -20,7 +20,7 @@ void print_strings(const char *separator, const unsigned int n, ...)
 
 		if (str == NULL)
 		{
-			printf("(nill)");
+			printf("(nil)");
 		}
 		else
 		{
