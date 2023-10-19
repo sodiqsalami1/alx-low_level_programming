@@ -9,8 +9,8 @@
 /**
  * struct list_s - singly linked list
  * @str: string - (malloc'ed string)
- * @str: string - (malloc'ed string)
- * @next: points to the next node
+ * @len: string - (malloc'ed string)
+ * @next: pointer to the next node
  */
 
 typedef struct list_s
