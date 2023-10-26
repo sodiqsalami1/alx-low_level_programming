@@ -3,7 +3,7 @@
  * binary_to_uint - program that converts the binary numbers
  * to decimal numbers
  *
- * @b: a character pointer to a string containing the
+ * @b: character pointer to a string containing the
  * binary numbers
  *
  * Return: converted decimal
